@@ -1,0 +1,4 @@
+name: MyTestPlugin
+version: '${project.version}'
+main: paperplugin.mytestplugin.MyTestPlugin
+api-version: 1.18
